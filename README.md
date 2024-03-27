@@ -147,6 +147,7 @@ Testing the webserver.
 ```
 
 ## OUTPUT:
+![Screenshot (28)](https://github.com/Isreal129/simplewebserver/assets/125784931/31c33b4a-5432-4ccf-8dbd-e199b4e82455)
 
 
 ## RESULT:
