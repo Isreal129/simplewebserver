@@ -62,14 +62,14 @@ Testing the webserver.
                 <a class="nav-link active" aria-current="page " href="#">WEB PROJECT</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">NARESH.R</a>
+                <a class="nav-link" href="#">ISREAL MOSES B</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   DEPARTMENT
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">CSC DEPARTMENT</a></li>
+                  <li><a class="dropdown-item" href="#">CSE DEPARTMENT</a></li>
                   <li><a class="dropdown-item" href="#">AIML DEPARTMENT</a></li>
                   <li><hr class="dropdown-divider"></li>
                   <li><a class="dropdown-item" href="#">ECE DEPARTMENT here</a></li>
